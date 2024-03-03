@@ -1,28 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VarietyCarRental.bundle.scp.css",
-      "PackagePath": "staticwebassets\\VarietyCarRental.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\Images\\LogoCarRental.png",
-      "PackagePath": "staticwebassets\\Images\\LogoCarRental.png"
-    },
-    {
       "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\Style.css",
       "PackagePath": "staticwebassets\\css\\Style.css"
     },
     {
       "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\form.css",
       "PackagePath": "staticwebassets\\css\\form.css"
-    },
-    {
-      "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\lib\\bootstrap\\LICENSE",

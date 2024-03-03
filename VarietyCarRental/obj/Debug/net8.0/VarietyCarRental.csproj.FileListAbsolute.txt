@@ -51,9 +51,7 @@ C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyC
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VarietyCarRental.props
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VarietyCarRental.props
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\scopedcss\bundle\VarietyCarRental.styles.css
-C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\scopedcss\projectbundle\VarietyCarRental.bundle.scp.css
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\VarietyCarRental.dll
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\refint\VarietyCarRental.dll
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\obj\Debug\net8.0\VarietyCarRental.pdb

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WWoOz/3jsCHW0Pv+REdyrk4Y07C7JipDRPgetnAqSz8=",
+  "Hash": "CqRO9gBWlNQApEv5DYqftcAvrBYl+ldYBqwtqA/iK2E=",
   "Source": "VarietyCarRental",
   "BasePath": "_content/VarietyCarRental",
   "Mode": "Default",
@@ -1136,6 +1136,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\lib\\personasrentcar.png",
+      "SourceId": "VarietyCarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\",
+      "BasePath": "_content/VarietyCarRental",
+      "RelativePath": "lib/personasrentcar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\personasrentcar.png"
     }
   ]
 }

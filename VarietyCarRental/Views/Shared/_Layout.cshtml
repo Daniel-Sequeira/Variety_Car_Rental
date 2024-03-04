@@ -24,10 +24,9 @@
             Variety Car Rental
         </div>
         <ul class="nav-link">
-            <li><a class="active" href="/index.html">Inicio</a></li>
-            <li><a href="#">Acerca de Nosotros</a></li>
-            <li>
-                <a href="#">Administración <i class="fa fa-caret-down"></i></a>
+            <li><a class="active" href="@Url.Action("Index","Home")">Inicio</a></li>
+            <li><a href="@Url.Action("AcercaDE","Home")">Acerca de Nosotros</a></li>
+            <li><a href="#">Administración <i class="fa fa-caret-down"></i></a>
 
                 <ul class="dropdown-nav-link">
                     <li><a href="/forms.html">Registrar Usuarios</a></li>
@@ -35,7 +34,7 @@
                     <li><a href="#">Logout</a></li>
                 </ul>
             </li>
-            <li><a href="#">Login</a></li>
+            <li><a href="@Url.Action("Login","Home")">Login</a></li>
         </ul>
     </nav>
     <div class="container">

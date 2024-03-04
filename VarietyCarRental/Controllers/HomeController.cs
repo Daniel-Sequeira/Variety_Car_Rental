@@ -13,6 +13,8 @@ namespace VarietyCarRental.Controllers
       public IActionResult Login () { return View(); }
 
       public IActionResult Vehiculos () { return View(); }
+
+      public IActionResult Reservas() { return View(); }
     }
 
     

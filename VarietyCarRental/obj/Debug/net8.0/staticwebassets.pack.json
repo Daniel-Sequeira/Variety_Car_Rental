@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\StyleFrmReservas.css"
     },
     {
+      "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\StyleInputForm.css",
+      "PackagePath": "staticwebassets\\css\\StyleInputForm.css"
+    },
+    {
       "Id": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\form.css",
       "PackagePath": "staticwebassets\\css\\form.css"
     },

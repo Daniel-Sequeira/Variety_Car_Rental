@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SE/kuuO49pKMaFMdaEsWmXX4phWaiEAunGYz3jAftVs=",
+  "Hash": "TrvVK/vKsxGiLChl0zQCsPxT2QhFjpGI+JEnPeMABq8=",
   "Source": "VarietyCarRental",
   "BasePath": "_content/VarietyCarRental",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\StyleFrmReservas.css"
+    },
+    {
+      "Identity": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\StyleInputForm.css",
+      "SourceId": "VarietyCarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\",
+      "BasePath": "_content/VarietyCarRental",
+      "RelativePath": "css/StyleInputForm.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleInputForm.css"
     },
     {
       "Identity": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\auto-for-rent.jpg",

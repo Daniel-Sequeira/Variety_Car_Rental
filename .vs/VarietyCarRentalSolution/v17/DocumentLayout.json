@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -58,8 +54,7 @@
               "RelativeToolTip": "VarietyCarRental\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T04:22:17.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T04:22:17.253Z"
             },
             {
               "$type": "Document",
@@ -69,7 +64,7 @@
               "RelativeDocumentMoniker": "VarietyCarRental\\wwwroot\\css\\Style.css",
               "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\css\\Style.css",
               "RelativeToolTip": "VarietyCarRental\\wwwroot\\css\\Style.css",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADcAAAAeAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-05T03:28:04.909Z",
               "EditorCaption": ""
@@ -84,8 +79,7 @@
               "RelativeToolTip": "VarietyCarRental\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T00:27:08.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T00:27:08.094Z"
             },
             {
               "$type": "Document",
@@ -97,8 +91,7 @@
               "RelativeToolTip": "VarietyCarRental\\Views\\Home\\Reservas.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T23:44:37.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T23:44:37.784Z"
             },
             {
               "$type": "Document",
@@ -110,8 +103,7 @@
               "RelativeToolTip": "VarietyCarRental\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:38:49.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T18:38:49.831Z"
             },
             {
               "$type": "Document",
@@ -123,8 +115,7 @@
               "RelativeToolTip": "VarietyCarRental\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T17:46:30.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T17:46:30.603Z"
             }
           ]
         }

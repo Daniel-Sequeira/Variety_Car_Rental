@@ -28,7 +28,11 @@ body {
     justify-content: space-around;
     align-items: center;
     border-bottom: 3px solid rgb(84, 84, 84);
+<<<<<<< HEAD
     z-index: 1000;
+=======
+    z-index: 999;
+>>>>>>> 0358549794d1ca95aca2a4921275db539dd6c961
 }
 
 .logo {
@@ -41,7 +45,7 @@ body {
 
 .nav-link {
     list-style: none;
-    display: flex;
+    display: block;
 }
 
     .nav-link > li {
@@ -71,6 +75,7 @@ body {
     visibility: hidden;
     padding: 1rem;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    z-index: 1000;
 }
 
     .dropdown-nav-link li a {

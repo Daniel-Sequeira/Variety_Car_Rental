@@ -2,8 +2,9 @@
     ViewData["Title"] = "Reservas";
 }
 
-<h1 style="text-align: center; color: #3498db;">Reserva de Vehículos</h1>
 
+<h1 style="text-align: center; color: #3498db;">Reserva de Vehículos</h1>
+<link rel="stylesheet" href="/css/StyleFrmReservas.css">
 <div class="reservation-form">
     <form>
         <label for="pickup-date" style="color: #333;">Fecha de Recogida:</label>
@@ -28,52 +29,5 @@
 
         <button type="submit" style="background-color: #3498db; color: #ffffff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Buscar Vehículos</button>
     </form>
+
 </div>
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f9f9f9;
-    }
-
-    .reservation-form {
-        max-width: 600px;
-        margin: 20px auto;
-        padding: 20px;
-        border-radius: 5px;
-        background-color: #ffffff;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-
-    form {
-        display: grid;
-        gap: 10px;
-    }
-
-    label {
-        font-weight: bold;
-    }
-
-    input,
-    select {
-        width: 100%;
-        padding: 8px;
-        border-radius: 3px;
-        border: 1px solid #ccc;
-        box-sizing: border-box;
-    }
-
-    button {
-        width: 100%;
-        padding: 10px;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
-
-        button:hover {
-            background-color: #2980b9;
-        }
-</style>

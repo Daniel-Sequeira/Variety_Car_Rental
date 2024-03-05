@@ -28,11 +28,7 @@ body {
     justify-content: space-around;
     align-items: center;
     border-bottom: 3px solid rgb(84, 84, 84);
-<<<<<<< HEAD
-    z-index: 1000;
-=======
-    z-index: 999;
->>>>>>> 0358549794d1ca95aca2a4921275db539dd6c961
+
 }
 
 .logo {

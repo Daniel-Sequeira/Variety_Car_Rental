@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\form.css"
     },
     {
+      "Id": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\auto-for-rent.jpg",
+      "PackagePath": "staticwebassets\\images\\auto-for-rent.jpg"
+    },
+    {
       "Id": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\corolla.jpeg",
       "PackagePath": "staticwebassets\\images\\corolla.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\free car rent.webp",
+      "PackagePath": "staticwebassets\\images\\free car rent.webp"
     },
     {
       "Id": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\nissan versa rojo.webp",

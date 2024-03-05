@@ -2,6 +2,57 @@
     Layout = "_Layout";
 }
 
-<div class="container">
-    <img src="~/lib/personasrentcar.png">
+<div class="hero">
+    <img src="/images/auto-for-rent.jpg" alt="Personas Rent Car" class="hero-image">
+    <div class="hero-content">
+        <h1 class="hero-title" style="color:dimgrey;">¡Bienvenido a Variety Car Rental!</h1>
+        <p class="hero-subtitle"style="color:dimgrey;">Tu mejor opción para alquiler de vehículos.</p>
+        <a href="/reservas" class="btn btn-primary">Reservar Ahora</a>
+    </div>
 </div>
+
+<style>
+    .hero {
+        position: relative;
+        height: 500px;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .hero-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .hero-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+    }
+
+    .hero-title {
+        font-size: 3rem;
+        margin-bottom: 20px;
+    }
+
+    .hero-subtitle {
+        font-size: 1.5rem;
+        margin-bottom: 40px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #3498db;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn:hover {
+            background-color: #2980b9;
+        }
+</style>

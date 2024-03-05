@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dc2PVrZ1y0UYFS1GO0Qe1a4gA9wlUJM3P6/NlYyPVSQ=",
+  "Hash": "Z8x3MTPzACoBuvfiDnRgRb1daJOILxu7/lcKI7AqsWk=",
   "Source": "VarietyCarRental",
   "BasePath": "_content/VarietyCarRental",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
+      "Identity": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\auto-for-rent.jpg",
+      "SourceId": "VarietyCarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\",
+      "BasePath": "_content/VarietyCarRental",
+      "RelativePath": "images/auto-for-rent.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\auto-for-rent.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\corolla.jpeg",
       "SourceId": "VarietyCarRental",
       "SourceType": "Discovered",
@@ -129,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\corolla.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\free car rent.webp",
+      "SourceId": "VarietyCarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\",
+      "BasePath": "_content/VarietyCarRental",
+      "RelativePath": "images/free car rent.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\free car rent.webp"
     },
     {
       "Identity": "C:\\Users\\Fabián\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\wwwroot\\images\\nissan versa rojo.webp",

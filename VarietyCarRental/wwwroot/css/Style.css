@@ -28,6 +28,7 @@ body {
     justify-content: space-around;
     align-items: center;
     border-bottom: 3px solid rgb(84, 84, 84);
+    z-index: 1000;
 }
 
 .logo {
@@ -341,4 +342,5 @@ button {
     button:hover {
         background-color: #2980b9;
     }
+
 

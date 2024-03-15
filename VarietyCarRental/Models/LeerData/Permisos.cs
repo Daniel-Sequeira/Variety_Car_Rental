@@ -2,8 +2,8 @@
 {
     public class Permisos
     {
-        public int id_permiso {  get; set; }
-        public int id_acceso { get; set; }
-        public int id_modulo { get; set; }
+        public int IdPermiso {  get; set; }
+        public int IdAcceso { get; set; }
+        public int IdModulo { get; set; }
     }
 }

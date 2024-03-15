@@ -2,8 +2,8 @@
 {
     public class Modulos
     {
-        public int id_modulo {  get; set; }
-        public string nombre_mod { get; set; }
+        public int IdModulo {  get; set; }
+        public string NombreModulo { get; set; }
 
     }
 }

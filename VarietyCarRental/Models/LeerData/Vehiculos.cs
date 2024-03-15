@@ -4,11 +4,11 @@ namespace VarietyCarRental.Models.LeerData
 {
     public class Vehiculos
     {
-        public int id_vehiculo {  get; set; }  
-        public string modelo { get; set; }
-        public string tipo { get; set; }
-        public int capacidad { get; set; } 
-        public decimal precio_dia { get; set; }
-        public bool disponibilidad { get; set; }
+        public int IdVehiculo {  get; set; }  
+        public string Modelo { get; set; }
+        public string Tipo { get; set; }
+        public int Capacidad { get; set; } 
+        public decimal PrecioDia { get; set; }
+        public bool Disponibilidad { get; set; }
     }
 }

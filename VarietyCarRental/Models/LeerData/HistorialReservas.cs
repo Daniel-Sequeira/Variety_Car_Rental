@@ -2,10 +2,10 @@
 {
     public class HistorialReservas
     {
-        public int id_historial {  get; set; }
-        public int id_reserva { get; set; }
-        public int id_vehiculo { get; set; }
-        public DateTime fecha_inicio { get; set; }
-        public DateTime fecha_fin {  get; set; }
+        public int IdHistorial {  get; set; }
+        public int IdReserva { get; set; }
+        public int IdVehiculo { get; set; }
+        public DateTime FechaInicio { get; set; }
+        public DateTime FechaFin {  get; set; }
     }
 }

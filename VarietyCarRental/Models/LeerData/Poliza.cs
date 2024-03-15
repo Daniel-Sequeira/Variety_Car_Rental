@@ -2,8 +2,8 @@
 {
     public class Poliza
     {
-        public int id_poliza {  get; set; }
-        public string descripcion { get; set; }
-        public decimal costo_poliza { get; set; }  
+        public int IdPoliza {  get; set; }
+        public string Descripcion { get; set; }
+        public decimal CostoPoliza { get; set; }  
     }
 }

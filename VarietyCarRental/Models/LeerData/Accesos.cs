@@ -2,7 +2,8 @@
 {
     public class Accesos
     {
-        public int id_accesos {  get; set; }
-        public string nombre_acceso { get; set; }
+        public int IdAcceso {  get; set; }
+        public string NombreAcceso { get; set; }
+
     }
 }

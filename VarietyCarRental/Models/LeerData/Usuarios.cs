@@ -8,5 +8,7 @@
         public string Apellidos { get; set; }
         public required string Contrasena {  get; set; }
         public string Email {  get; set; }
+
+        public Accesos Accesos { get; set; }
     }
 }

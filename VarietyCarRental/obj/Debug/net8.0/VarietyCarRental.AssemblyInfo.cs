@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VarietyCarRental")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d30cc5a1b5ca5902848f9c3849655b9c3029ba")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42908ab7c83e174c3e31fe2c285c5628853a311")]
+>>>>>>> af881ef1ab70bb9fba0c5872c107d8ca59ddd11b
 [assembly: System.Reflection.AssemblyProductAttribute("VarietyCarRental")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VarietyCarRental")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

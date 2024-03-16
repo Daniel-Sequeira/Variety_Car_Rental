@@ -5,5 +5,7 @@
         public int IdAcceso {  get; set; }
         public string NombreAcceso { get; set; }
 
+
+        public Usuarios Usuarios { get; set; }
     }
 }

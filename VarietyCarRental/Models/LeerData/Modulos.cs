@@ -3,7 +3,7 @@
     public class Modulos
     {
         public int IdModulo {  get; set; }
-        public string NombreModulo { get; set; }
+        public string? NombreModulo { get; set; }
 
     }
 }

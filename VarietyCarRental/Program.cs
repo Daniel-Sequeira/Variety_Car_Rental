@@ -1,7 +1,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
-using VarietyCarRental.Models.LeerData;
+using VarietyCarRental.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

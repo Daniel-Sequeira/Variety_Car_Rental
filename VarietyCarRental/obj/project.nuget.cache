@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "INMUJJONjLEj3vSpY5DL++sTivjim+c/PB+4tDk7o6jKSFxUSSerAmd3w8bvwy+cC3EquULJeCCntKasyniYBQ==",
+  "dgSpecHash": "OT3uv8gqDeFbRthPnGo/0oC3JRu8wb8o2zuMwdgI0LU+7UYl/WXfPfEQ/fLYcuYf7HdRzl6eT+/dnN9RvgdKCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\danie\\source\\repos\\VarietyCarRentalSolution\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj",
   "expectedPackageFiles": [
@@ -91,8 +91,10 @@
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.3\\microsoft.entityframeworkcore.design.8.0.3.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.3\\microsoft.entityframeworkcore.relational.8.0.3.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.3\\microsoft.entityframeworkcore.sqlserver.8.0.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.3\\microsoft.entityframeworkcore.tools.8.0.3.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

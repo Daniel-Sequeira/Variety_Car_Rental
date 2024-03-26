@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\appusuarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\appusuarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\modulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\modulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|c:\\users\\fabi\u00E1n\\desktop\\variety_car_rental\\varietycarrental\\models\\leerdata\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\historialreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\historialreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\varietycarrental\\models\\leerdata\\accesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E814F36-3435-4CF4-9FCE-BAF319FC81EB}|VarietyCarRental\\VarietyCarRental.csproj|solutionrelative:varietycarrental\\models\\leerdata\\accesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,136 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Accesos.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Accesos.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Accesos.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Accesos.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Accesos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:33:17.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HistorialReservas.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\HistorialReservas.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\HistorialReservas.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\HistorialReservas.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\HistorialReservas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:30:43.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mantenimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Mantenimiento.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Mantenimiento.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Mantenimiento.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Mantenimiento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:27:31.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Modulos.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Modulos.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Modulos.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Modulos.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Modulos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:23:15.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Permisos.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Permisos.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Permisos.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Permisos.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Permisos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:11:32.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUsuariosContext.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\AppUsuariosContext.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\AppUsuariosContext.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\AppUsuariosContext.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\AppUsuariosContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:10:53.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Poliza.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Poliza.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Poliza.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Poliza.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Poliza.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:04:08.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Clientes.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Clientes.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Clientes.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Clientes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:01:10.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vehiculos.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Vehiculos.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Vehiculos.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Vehiculos.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Vehiculos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:49:05.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Usuarios.cs",
-              "RelativeDocumentMoniker": "VarietyCarRental\\Models\\LeerData\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Fabi\u00E1n\\Desktop\\Variety_Car_Rental\\VarietyCarRental\\Models\\LeerData\\Usuarios.cs",
-              "RelativeToolTip": "VarietyCarRental\\Models\\LeerData\\Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:48:17.85Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -575,3 +575,6 @@ C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\ru
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll

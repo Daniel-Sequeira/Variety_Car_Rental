@@ -1,0 +1,49 @@
+﻿@model VarietyCarRental.Models.TblPoliza
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+<h4>TblPoliza</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdPoliza" class="control-label"></label>
+                <input asp-for="IdPoliza" class="form-control" />
+                <span asp-validation-for="IdPoliza" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescripcionPoliza" class="control-label"></label>
+                <input asp-for="DescripcionPoliza" class="form-control" />
+                <span asp-validation-for="DescripcionPoliza" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostoPoliza" class="control-label"></label>
+                <input asp-for="CostoPoliza" class="form-control" />
+                <span asp-validation-for="CostoPoliza" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

@@ -17,71 +17,111 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VarietyCarRental
 build_property.RootNamespace = VarietyCarRental
-build_property.ProjectDir = C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental\
+build_property.ProjectDir = C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\danie\source\repos\VarietyCarRentalSolution\Variety_Car_Rental\VarietyCarRental
+build_property.MSBuildProjectDirectory = C:\Users\Fabián\Desktop\Variety_Car_Rental\VarietyCarRental
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/AcercaDe.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/AcercaDe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FEZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/Index.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/Login.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/RegistrarUsuarios.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/RegistrarUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/Reservas.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/Reservas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNlcnZhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Home/Vehiculos.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Home/Vehiculos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZWhpY3Vsb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Shared/Error.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/Shared/_Layout.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Create.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblPolizas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG9saXphc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblPolizas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG9saXphc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblPolizas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG9saXphc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblPolizas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG9saXphc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblPolizas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG9saXphc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblUsuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblUsuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblUsuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblUsuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblUsuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVmVoaWN1bG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Delete.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVmVoaWN1bG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Details.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVmVoaWN1bG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Edit.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVmVoaWN1bG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Index.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/TblVehiculoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVmVoaWN1bG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/_ViewImports.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/source/repos/VarietyCarRentalSolution/Variety_Car_Rental/VarietyCarRental/Views/_ViewStart.cshtml]
+[C:/Users/Fabián/Desktop/Variety_Car_Rental/VarietyCarRental/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

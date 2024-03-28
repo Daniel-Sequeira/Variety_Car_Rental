@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Source\\Repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj": {}
+    "C:\\Users\\danie\\source\\repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Source\\Repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj": {
+    "C:\\Users\\danie\\source\\repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Source\\Repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj",
         "projectName": "VarietyCarRental",
-        "projectPath": "C:\\Users\\danie\\Source\\Repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj",
+        "projectPath": "C:\\Users\\danie\\source\\repos\\Variety_Car_Rental\\VarietyCarRental\\VarietyCarRental.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Source\\Repos\\Variety_Car_Rental\\VarietyCarRental\\obj\\",
+        "outputPath": "C:\\Users\\danie\\source\\repos\\Variety_Car_Rental\\VarietyCarRental\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

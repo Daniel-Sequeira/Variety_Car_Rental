@@ -32,7 +32,7 @@ public partial class RentCarContext : DbContext
     public virtual DbSet<TblVehiculo> TblVehiculos { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=LAPTOP-7S7U7UK3\\SQLEXPRESS;Initial Catalog=RentCar;Integrated Security=True;Trust Server Certificate=True;");
+        => optionsBuilder.UseSqlServer("Data Source=DanielsPC\\SQLEXPRESS;Initial Catalog=RentCar;Integrated Security=True;Trust Server Certificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
